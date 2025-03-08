@@ -23,7 +23,7 @@ const scheduleItems = [
   },
   {
     time: '09:45 - 10:30',
-    title: 'Panel Discussion: Understanding Today's Global Consumer',
+    title: "Panel Discussion: Understanding Today's Global Consumer",
     description: 'Experts discuss the changing demographics and preferences of luxury consumers worldwide.',
   },
   {
